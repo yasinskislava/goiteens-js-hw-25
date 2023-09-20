@@ -1,0 +1,14 @@
+#gallery {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    justify-content: center;
+    padding: 0;
+}
+#gallery img{
+    width: auto;
+    height: 300px;
+}
+.gallery-title {
+    text-align: center;
+}
